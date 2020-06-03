@@ -10,18 +10,18 @@ Main repository of CadizSanto AR app for Android.
 
 To install the application, just go to the following link and download the latest version available:
 
-
+https://github.com/guille31794/DSH/releases
 
 That package must be copied to an accessible place in the memory of our android device, either wirelessly or by cable.
 Once copied, we access the settings menu, and activate the option to install applications from unknown sources.
 Search with a file explorer for the file that we have previously copied to the device, and install the application normally.
 Download the markers from the following link:
 
-
+https://github.com/guille31794/DSH/releases
 
 Place the versions A of these markers on a surface without wrinkling, and place their version B, corresponding to adjust the scale of the image that we want to represent, similarly on a surface.
 
-User manual
+# User manual
 
 The app operatio system is simple. Once opened, the main menu appears and the operation through all the menus is done by tapping on the screen on the colored and labeled buttons.
 
